@@ -1,0 +1,46 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:rgba(223,36,136,255);
+    width: 100%;
+}
+
+.babyfreeze-image {
+    width: 15%;
+    height: 90px;
+}
+
+.babyfreeze-image img {
+    max-width: 65%;
+    height: 100%;
+}
+
+.babyfreeze-title {
+    width: 30%;
+    height: 90px;
+}
+
+.babyfreeze-title:hover {
+    color: rgba(241,135,20,255)
+}
+
+.babyfreeze-title h1 {
+    font-family: 'Press Start 2P', cursive;
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+    text-shadow: 4px 4px black;
+    height: 100%
+}
+
+.babyfreeze-ig {
+    width: 15%;
+    height: 90px;
+}
+
+.babyfreeze-ig img {
+    max-width: 80%;
+    height: 100%;
+    border-radius: 50%;
+}

@@ -1,13 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
-import "./images/BBFbackground2.jpeg";
-
+import background from "./images/BBFbackground2.jpeg";
+import NavBar from "./NavBar.js";
+import { Link } from 'react-router-dom';
 
 const App = () => {
   return (
     <div className="App">
+      <NavBar />
       <div className="App-content">
-        <img src="./images/BBFbackground2.jpeg"></img>
+        <img src={background} alt="alt text"></img>
       </div>
     </div>
   );

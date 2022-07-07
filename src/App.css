@@ -3,7 +3,7 @@
 }
 
 .App-content img {
-  position: fixed;
   width: 100%;
   height: 100%;
+  overflow: scroll;
 }
