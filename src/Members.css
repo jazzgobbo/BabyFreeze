@@ -1,0 +1,25 @@
+.members {
+    z-index: 100;
+}
+
+.members h1 {
+    font-weight: bold;
+    font-style: italic;
+    color: black;
+    height: 100%;
+    padding: 0;
+}
+
+.slideshow-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.myslides-fade img {
+    height: 200px;
+    width: 200px;
+}
+
+
+
+
