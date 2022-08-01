@@ -1,0 +1,25 @@
+.welcome {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.welcome h1 {
+    background-color: white;
+    border-radius: 10%;
+    box-shadow: 3px 5px;
+    width: 30%;
+}
+
+
+
+p {
+    width: 50%;
+    word-break: keep-all;
+    background-color: white;
+    border: 20px solid white;
+    border-radius: 10%;
+    box-shadow: 3px 5px;
+  }
