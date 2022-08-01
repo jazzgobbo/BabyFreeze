@@ -21,18 +21,17 @@
     height: 90px;
 }
 
-.babyfreeze-title:hover {
-    color: rgba(241,135,20,255)
-}
-
 .babyfreeze-title h1 {
     font-family: 'Press Start 2P', cursive;
     font-weight: bold;
     font-style: italic;
     color: white;
     text-shadow: 4px 4px black;
-    height: 100%
+    height: 60px;
+    padding: 5%;
 }
+
+
 
 .babyfreeze-ig {
     width: 15%;

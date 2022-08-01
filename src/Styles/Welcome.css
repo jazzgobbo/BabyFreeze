@@ -13,8 +13,6 @@
     width: 30%;
 }
 
-
-
 p {
     width: 50%;
     word-break: keep-all;
@@ -23,3 +21,15 @@ p {
     border-radius: 10%;
     box-shadow: 3px 5px;
   }
+
+.youtube {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+iframe {
+    width: 550px;
+    height: 309px;
+    padding-top: 5%;
+
+}

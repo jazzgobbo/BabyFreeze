@@ -1,6 +1,6 @@
-import "./NavBar.css"
-import logo from "./images/logo.jpeg";
-import insta from "./images/insta.jpeg";
+import "../Styles/NavBar.css"
+import logo from "../images/logo.jpeg";
+import insta from "../images/insta.jpeg";
 import { Link } from 'react-router-dom';
 
 const NavBar = () => {

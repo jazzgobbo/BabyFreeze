@@ -1,8 +1,8 @@
 import './App.css';
-import NavBar from "./NavBar.js";
+import NavBar from "./Components/NavBar.js";
 import { Link } from 'react-router-dom';
-import Members from "./Members.js";
-import Welcome from "./Welcome.js";
+import Members from "./Components/Members.js";
+import Welcome from "./Components/Welcome.js";
 
 
 const App = () => {
