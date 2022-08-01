@@ -11,9 +11,7 @@ const Welcome = () => {
                 mollis metus. Vivamus a orci sollicitudin, pellentesque libero ac, mattis tellus. Duis non iaculis leo, in blandit enim.
                 Vestibulum odio leo, vestibulum eget purus at, blandit congue turpis.
             </p>
-            <div className="youtube">
-                <iframe src="https://www.youtube.com/embed/klkOPcJpUSU" title="YouTube video player" frameborder="0" allowfullscreen ></iframe>
-            </div>
+            
 
         </div>
     )

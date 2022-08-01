@@ -9,10 +9,6 @@ const App = () => {
   return (
     <div className="App">
       <NavBar />
-      <div className="App-content">
-        <Welcome />
-        <Members />
-      </div>
     </div>
   );
 }

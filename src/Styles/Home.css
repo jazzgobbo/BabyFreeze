@@ -1,0 +1,14 @@
+.Home {
+    text-align: center;
+    background-image: url('../images/BBFbackground2.jpeg');
+    width: 100%;
+    height: 100%;
+    overflow: scroll;
+  }
+  
+  .Home-content {
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+  
+  }
